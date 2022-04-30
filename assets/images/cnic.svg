@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.11" height="8.666" viewBox="0 0 10.11 8.666">
+  <g id="identification" transform="translate(-2.25 -4.5)">
+    <path id="Path_93" data-name="Path 93" d="M11.638,5.222v7.222H2.972V5.222h8.666m0-.722H2.972a.722.722,0,0,0-.722.722v7.222a.722.722,0,0,0,.722.722h8.666a.722.722,0,0,0,.722-.722V5.222A.722.722,0,0,0,11.638,4.5Z" transform="translate(0)" fill="#0060ae"/>
+    <path id="Path_94" data-name="Path 94" d="M6.75,11.25H9.278v.722H6.75Z" transform="translate(-3.056 -4.583)" fill="#0060ae"/>
+    <path id="Path_95" data-name="Path 95" d="M6.75,15.75H8.194v.722H6.75Z" transform="translate(-3.056 -7.639)" fill="#0060ae"/>
+    <path id="Path_96" data-name="Path 96" d="M19,20.25H16.833a1.083,1.083,0,0,0-1.083,1.083v.722h.722v-.722a.361.361,0,0,1,.361-.361H19a.361.361,0,0,1,.361.361v.722h.722v-.722A1.083,1.083,0,0,0,19,20.25Z" transform="translate(-9.167 -10.695)" fill="#0060ae"/>
+    <path id="Path_97" data-name="Path 97" d="M19.444,13.014A1.444,1.444,0,1,0,18,11.569,1.444,1.444,0,0,0,19.444,13.014Zm0-2.167a.722.722,0,1,1-.722.722A.722.722,0,0,1,19.444,10.847Z" transform="translate(-10.695 -3.82)" fill="#0060ae"/>
+  </g>
+</svg>

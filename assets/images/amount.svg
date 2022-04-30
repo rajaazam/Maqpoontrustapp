@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.852" height="8.682" viewBox="0 0 10.852 8.682">
+  <g id="money" transform="translate(-1.125 -4.5)">
+    <path id="Path_99" data-name="Path 99" d="M10.53,4.5H1.125v7.235H10.53Zm-.723,6.511H1.848V5.223H9.807Z" transform="translate(0 0)" fill="#0060ae"/>
+    <path id="Path_100" data-name="Path 100" d="M15.07,10.125v6.15H6.75V17h9.043V10.125Z" transform="translate(-3.816 -3.816)" fill="#0060ae"/>
+    <path id="Path_101" data-name="Path 101" d="M12.315,13.794a1.706,1.706,0,0,0,1.628-1.771,1.706,1.706,0,0,0-1.628-1.771,1.706,1.706,0,0,0-1.628,1.771A1.706,1.706,0,0,0,12.315,13.794Zm0-2.818a.985.985,0,0,1,.9,1.047.985.985,0,0,1-.9,1.047.985.985,0,0,1-.9-1.047A.985.985,0,0,1,12.315,10.976Z" transform="translate(-6.487 -3.903)" fill="#0060ae"/>
+    <path id="Path_102" data-name="Path 102" d="M5.625,9.563h.723v3.979H5.625Z" transform="translate(-3.053 -3.435)" fill="#0060ae"/>
+    <path id="Path_103" data-name="Path 103" d="M23.625,9.563h.723v3.979h-.723Z" transform="translate(-15.265 -3.435)" fill="#0060ae"/>
+  </g>
+</svg>
